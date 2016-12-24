@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Controler</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="WSS_RES">WSS复位</string>
+
+    <string-array name="port_select">
+        <item>PortA</item>
+        <item>PortB</item>
+        <item>PortC</item>
+        <item>PortD</item>
+    </string-array>
+</resources>

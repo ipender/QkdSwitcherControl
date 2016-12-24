@@ -1,0 +1,2 @@
+由于 termios.h 这个文件从Android21开始产生了变化，所以想要编译生成运行在Android21以下的平台中，
+要找到相应的termios.h，并copy到该目录下

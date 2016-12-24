@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QkdSwitcherControll</string>
+
+    <string-array name="port_select">
+        <item>PortA</item>
+        <item>PortB</item>
+        <item>PortC</item>
+        <item>PortD</item>
+    </string-array>
+</resources>
